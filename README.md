@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">Building AI-Powered Full-Stack Solutions 🤖</h3>
-
+<h3 align="center">Building the future of AI</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vvinaypingale-ops&label=Visitors&color=0e75b6&style=flat" alt="Visitors"/>
   <img src="https://img.shields.io/badge/SIH%202024-Top%2050%20National-red?style=flat&logo=hackthebox&logoColor=white" alt="SIH Top 50"/>
