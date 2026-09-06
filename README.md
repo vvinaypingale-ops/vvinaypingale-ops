@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&duration=2500&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&height=100&lines=V+Vinay+Pingale" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=50&duration=2500&pause=1000&color=00C7B7&center=true&vCenter=true&width=800&height=100&lines=Building+AI+that+is+ going+to+lead+the+world" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">Building AI-Powered Full-Stack Solutions 🤖</h3>
